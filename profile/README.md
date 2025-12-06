@@ -1,7 +1,8 @@
-## Hi there 👋
+<img width="1024" height="337" alt="image" src="https://github.com/user-attachments/assets/72735538-e1c8-4863-9e85-08e223433362" />
+
 
 <!--
-
+## Hi there 👋
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
